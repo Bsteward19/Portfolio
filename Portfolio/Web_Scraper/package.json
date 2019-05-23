@@ -1,0 +1,24 @@
+{
+  "name": "cadditest",
+  "version": "1.0.0",
+  "description": "Caddi test program",
+  "main": "Test_04.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Bsteward19/Canddi_Tech_Test.git"
+  },
+  "dependencies": {
+    "knwl.js": "latest",
+    "request": "latest",
+    "cheerios": "latest"
+  },
+  "author": "Brendan Steward",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Bsteward19/Canddi_Tech_Test/issues"
+  },
+  "homepage": "https://github.com/Bsteward19/Canddi_Tech_Test#readme"
+}
