@@ -1,0 +1,90 @@
+Testing
+
+Test 1 : Application doesn't crash if no user input is added
+
+Result : Application closes without error if there's no user input
+
+Test 2 : Users can input arguments in the Command Line, which will be carried out on the database
+
+Result : Users are asked for input, and a WHERE clause is done according to input.
+
+Test 3 : Application can connect to database
+
+Result : Application connects to database without issue.
+
+Test 4 : Results of query are displayed in command line
+
+Result : Results are displayed in a list, as show in the example below.
+
+Sample input and output:
+
+Department: Temp Stockers
+
+Pay Type: Hourly
+
+Education_Level = High School Degree
+
+Output: 
+18 Temp Stockers 93 High School Degree 18 Hourly 
+18 Temp Stockers 94 High School Degree 18 Hourly 
+18 Temp Stockers 95 High School Degree 18 Hourly 
+18 Temp Stockers 99 High School Degree 18 Hourly 
+18 Temp Stockers 151 High School Degree 18 Hourly 
+18 Temp Stockers 160 High School Degree 18 Hourly 
+18 Temp Stockers 216 High School Degree 18 Hourly 
+18 Temp Stockers 217 High School Degree 18 Hourly 
+18 Temp Stockers 273 High School Degree 18 Hourly 
+18 Temp Stockers 279 High School Degree 18 Hourly 
+18 Temp Stockers 285 High School Degree 18 Hourly 
+18 Temp Stockers 341 High School Degree 18 Hourly 
+18 Temp Stockers 342 High School Degree 18 Hourly 
+18 Temp Stockers 346 High School Degree 18 Hourly 
+18 Temp Stockers 348 High School Degree 18 Hourly 
+18 Temp Stockers 352 High School Degree 18 Hourly 
+18 Temp Stockers 408 High School Degree 18 Hourly 
+18 Temp Stockers 409 High School Degree 18 Hourly 
+18 Temp Stockers 410 High School Degree 18 Hourly 
+18 Temp Stockers 414 High School Degree 18 Hourly 
+18 Temp Stockers 420 High School Degree 18 Hourly 
+18 Temp Stockers 471 High School Degree 18 Hourly 
+18 Temp Stockers 482 High School Degree 18 Hourly 
+18 Temp Stockers 530 High School Degree 18 Hourly 
+18 Temp Stockers 531 High School Degree 18 Hourly 
+18 Temp Stockers 542 High School Degree 18 Hourly 
+18 Temp Stockers 608 High School Degree 18 Hourly 
+18 Temp Stockers 614 High School Degree 18 Hourly 
+18 Temp Stockers 635 High School Degree 18 Hourly 
+18 Temp Stockers 637 High School Degree 18 Hourly 
+18 Temp Stockers 700 High School Degree 18 Hourly 
+18 Temp Stockers 701 High School Degree 18 Hourly 
+18 Temp Stockers 702 High School Degree 18 Hourly 
+18 Temp Stockers 708 High School Degree 18 Hourly 
+18 Temp Stockers 803 High School Degree 18 Hourly 
+18 Temp Stockers 808 High School Degree 18 Hourly 
+18 Temp Stockers 809 High School Degree 18 Hourly 
+18 Temp Stockers 810 High School Degree 18 Hourly 
+18 Temp Stockers 812 High School Degree 18 Hourly 
+18 Temp Stockers 816 High School Degree 18 Hourly 
+18 Temp Stockers 869 High School Degree 18 Hourly 
+18 Temp Stockers 871 High School Degree 18 Hourly 
+18 Temp Stockers 932 High School Degree 18 Hourly 
+18 Temp Stockers 935 High School Degree 18 Hourly 
+18 Temp Stockers 940 High School Degree 18 Hourly 
+18 Temp Stockers 941 High School Degree 18 Hourly 
+18 Temp Stockers 945 High School Degree 18 Hourly 
+18 Temp Stockers 1002 High School Degree 18 Hourly 
+18 Temp Stockers 1005 High School Degree 18 Hourly 
+18 Temp Stockers 1009 High School Degree 18 Hourly 
+18 Temp Stockers 1010 High School Degree 18 Hourly 
+18 Temp Stockers 1015 High School Degree 18 Hourly 
+18 Temp Stockers 1017 High School Degree 18 Hourly 
+18 Temp Stockers 1056 High School Degree 18 Hourly 
+18 Temp Stockers 1060 High School Degree 18 Hourly 
+18 Temp Stockers 1061 High School Degree 18 Hourly 
+18 Temp Stockers 1063 High School Degree 18 Hourly 
+18 Temp Stockers 1121 High School Degree 18 Hourly 
+18 Temp Stockers 1124 High School Degree 18 Hourly 
+18 Temp Stockers 1132 High School Degree 18 Hourly 
+18 Temp Stockers 1136 High School Degree 18 Hourly 
+18 Temp Stockers 1137 High School Degree 18 Hourly 
+18 Temp Stockers 1154 High School Degree 18 Hourly 
